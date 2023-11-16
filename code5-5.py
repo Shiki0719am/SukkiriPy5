@@ -1,0 +1,7 @@
+def input_scores():
+    name = ""
+    print(f"{name}の結果を入力してください>>")
+name = "浅木"
+input_scores()
+name = "松田"
+input_scores()
